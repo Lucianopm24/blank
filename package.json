@@ -1,0 +1,23 @@
+{
+  "name": "blank",
+  "version": "0.0.0",
+  "description": "Un paquete que no hace nada. Y lo hace bien.",
+  "main": "nada.js",
+  "scripts": {
+    "start": "node nada.js",
+    "nada": "node nada.js",
+    "test": "echo 'No hay tests. No hay código. No hay nada.' && exit 0",
+    "build": "echo 'No hay nada que construir.'",
+    "deploy": "echo '¿Desplegar la nada? ¿A dónde?'"
+  },
+  "keywords": [
+    "nada",
+    "vacio",
+    "inutil",
+    "absurdo",
+    "filosofia"
+  ],
+  "author": "El Autor Inútil",
+  "license": "LIP-1.0",
+  "dependencies": {}
+}
