@@ -1,0 +1,16 @@
+# Ignorar todo.
+# Sí, TODO.
+# Este repo no quiere compromisos.
+
+*
+!*/
+!*.txt
+!*.md
+!*.js
+!*.py
+!*.json
+
+# Pero igual ignora esto también:
+# (la ironía es parte de la experiencia)
+.gitignore
+LICENSE
